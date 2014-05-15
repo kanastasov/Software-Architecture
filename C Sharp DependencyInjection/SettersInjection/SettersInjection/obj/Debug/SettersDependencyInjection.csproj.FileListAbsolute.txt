@@ -1,0 +1,6 @@
+U:\Software Architecture\DeoebdebcyInjection\SettersInjection\SettersInjection\bin\Debug\SettersInjection.exe.config
+U:\Software Architecture\DeoebdebcyInjection\SettersInjection\SettersInjection\bin\Debug\SettersInjection.exe
+U:\Software Architecture\DeoebdebcyInjection\SettersInjection\SettersInjection\bin\Debug\SettersInjection.pdb
+U:\Software Architecture\DeoebdebcyInjection\SettersInjection\SettersInjection\obj\Debug\SettersDependencyInjection.csprojResolveAssemblyReference.cache
+U:\Software Architecture\DeoebdebcyInjection\SettersInjection\SettersInjection\obj\Debug\SettersInjection.exe
+U:\Software Architecture\DeoebdebcyInjection\SettersInjection\SettersInjection\obj\Debug\SettersInjection.pdb
